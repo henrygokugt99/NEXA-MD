@@ -1,9 +1,9 @@
-# `XLICON-V2-MD`
+# `BULLSEYE-V1-MD`
 <br>
 <br>
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its%20XLICON-V2-MD;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20SALMAN%20AHMAD)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its%20BULLSEYE-V1-MD;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20BULLSEYE%20HENRY)
 <p align="center">
   
 >XLICON-V2-MD is based on :
