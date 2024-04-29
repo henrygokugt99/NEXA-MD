@@ -3,7 +3,7 @@
 <br>
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its%20BULLSEYE-V1-MD;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20BULLSEYE%20HENRY)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its%20BULLSEYE-MD;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20UNKNOW%20)
 <p align="center">
   
 >XLICON-V2-MD is based on :
@@ -169,7 +169,7 @@ NOW Deploy👇
 ## `OWNER` 
 <a href="https://github.com/henrygokugt99"><img src="https://i.ibb.co/Pj0thxY/8923-nexa-logo.webp" width="250" height="250" alt="Unknown 256"/></a>
   
-**BULLSEYE-MD** - By `salmanytofficial`
+**BULLSEYE-MD** - By `unknown`
 <br>
 `Development , Maintainence , Bot Updates`
 
