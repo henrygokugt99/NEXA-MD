@@ -167,9 +167,9 @@ NOW Deploy👇
 <a href="https://github.com/Guru322"><img src="https://github.com/Guru322.png" width="150" height="150" alt="Guru"/></a>
 
 ## `OWNER` 
-<a href="https://github.com/salmanytofficial"><img src="https://github.com/salmanytofficial.png" width="250" height="250" alt="Salman Ahmad"/></a>
+<a href="https://github.com/henrygokugt99"><img src="https://i.ibb.co/Pj0thxY/8923-nexa-logo.webp" width="250" height="250" alt="Unknown 256"/></a>
   
-**XLICON-V2** - By `salmanytofficial`
+**BULLSEYE-MD** - By `salmanytofficial`
 <br>
 `Development , Maintainence , Bot Updates`
 
