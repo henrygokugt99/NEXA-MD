@@ -13,7 +13,7 @@
 </p>
 
 ## 🌟 `Bot Intro and Features`
-[![BULL](https://telegra.ph/file/9ebe704ee2f508931fe7b.jpg)](https://youtu.be/WcA7GZuaN0A)
+[![BULL](https://telegra.ph/file/9e1977163f29ce0d8efbf.jpg)](https://youtu.be/WcA7GZuaN0A)
 
 ### ℹ️ **About BULLSEYE-MD**
 BULLSEYE-MD is a versatile Multi-Device WhatsApp bot developed by [Unknown 256](https://github.com/henrygokugt99). It offers a wide range of features, making it an advanced and user-friendly bot for various purposes.
