@@ -18,17 +18,17 @@
 ### ℹ️ **About BULLSEYE-MD**
 BULLSEYE-MD is a versatile Multi-Device WhatsApp bot developed by [Unknown 256](https://github.com/henrygokugt99). It offers a wide range of features, making it an advanced and user-friendly bot for various purposes.
 
-<p align="center"><img src="https://profile-counter.glitch.me/{XLICON-V2}/count.svg" alt="SALMAN AHMAD :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{BULLSEYE-MD}/count.svg" alt="NEXA 256 :: Visitor's Count" /></p>
 
 ### **Bot Statistics**
-![Bot Repository Size](https://img.shields.io/github/repo-size/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
-![Bot Repository Issues](https://img.shields.io/github/issues/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
-![Bot Repository Stars](https://img.shields.io/github/stars/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
-![Bot Repository Forks](https://img.shields.io/github/forks/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
-![Bot Repository Watchers](https://img.shields.io/github/watchers/salmanytofficial/XLICON-V2-MD?label=Watchers&style=for-the-badge)
-![Bot Repository Contributors](https://img.shields.io/github/contributors/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
-![Bot Repository Pull Requests](https://img.shields.io/github/issues-pr/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
-![Bot Repository License](https://img.shields.io/github/license/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
+![Bot Repository Size](https://img.shields.io/github/repo-size/henrygokugt99/NEXA-MD?style=for-the-badge)
+![Bot Repository Issues](https://img.shields.io/github/issues/henrygokugt99/NEXA-MD?style=for-the-badge)
+![Bot Repository Stars](https://img.shields.io/github/stars/henrygokugt99/NEXA-MD?style=for-the-badge)
+![Bot Repository Forks](https://img.shields.io/github/forks/henrygokugt99/NEXA-MD?style=for-the-badge)
+![Bot Repository Watchers](https://img.shields.io/github/watchers/henrygokugt99/NEXA-MD?label=Watchers&style=for-the-badge)
+![Bot Repository Contributors](https://img.shields.io/github/contributors/henrygokugt99/NEXA-MD?style=for-the-badge)
+![Bot Repository Pull Requests](https://img.shields.io/github/issues-pr/henrygokugt99/NEXA-MD?style=for-the-badge)
+![Bot Repository License](https://img.shields.io/github/license/henrygokugt99/NEXA-MD?style=for-the-badge)
 
 ####  
 *BULLSEYE-MD* - A Advanced Multi Device whatsapp bot Based on *GURU-BOT*
@@ -67,7 +67,7 @@ Thanks to all contributors! 🚀
 
 2. Get Session ID (SERVER 2)
     <br>
-<a href='https://replit.com/@mznking04/XLICON-PAIR-CODE' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://replit.com/@fivesteps45/NEXA-MD-PAIR-CODE-3' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 ## 🚀 `Deployments`
