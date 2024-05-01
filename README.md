@@ -63,7 +63,7 @@ Thanks to all contributors! 🚀
 
 2. Get Session ID (SERVER 1)
     <br>
-<a href='https://replit.com/@S4SalmanYt/XLICON-V2-PAIRING' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://replit.com/@fivesteps45/NEXA-MD-PAIR-CODE-3' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 2. Get Session ID (SERVER 2)
     <br>
