@@ -39,10 +39,10 @@ let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
 🚀 *_Buckle up ${name}, ${greeting}! We're going on an adventure!_* 🚀
 
-🌠 *_Xlicon team quote of the day: ${quote}_* 🌠
+🌠 *_Nexa team quote of the day: ${quote}_* 🌠
 
 ┏━━🤖 _BOT STATUS:_🤖━━┓
-┃ 🏮  *Founder:* Salman Ahmad
+┃ 🏮  *Founder:* Henry 256
 ┃ 🤡  *Bot Name:* ${botname} 
 ┃ 💻  *Host:* Kali Linix
 ┃ 📣  *Prefix:* ${usedPrefix} 
