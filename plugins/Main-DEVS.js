@@ -1,5 +1,5 @@
 var handler = async (m, { conn, command, args, usedPrefix, DevMode }) => {
-  let owners = '233508488192 - *ABRAHAM*'; // Define owners variable
+  let owners = '256789810043 - *NEXA*'; // Define owners variable
 
   let fkontak = {
     "key": {
@@ -20,9 +20,9 @@ var handler = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 
   const cat = `*_XLICON-V2_*
 
-*_—🔰 𝐗𝐥𝐢𝐜𝐨𝐧 𝐯𝟐  𝐃𝐄𝐕 𝟏 wa.me/+233533763772 %dont_contact_me%_*
+*_—⛔ BULLSEYE MD  𝐃𝐄𝐕 𝟏 wa.me/+256789810043 %dont_contact_me%_*
 
-*_—🔰 𝐗𝐥𝐢𝐜𝐨𝐧 𝐯𝟐  𝐃𝐄𝐕 2 wa.me/+923184070915_*
+*_—🍷 BULLSEYE MD  𝐃𝐄𝐕 2 wa.me/+923184070915_*
 *---------------------*
 
 *_ᴛʜᴇ ᴍᴏᴅᴇʀᴀᴛᴏʀ_*
