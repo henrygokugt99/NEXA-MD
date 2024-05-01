@@ -11,8 +11,8 @@ let handler = async (m, { conn, usedPrefix, command}) => {
         case 'list':
 lkr = "*Get excited, here are your options:*\n\n" +
 "🤖 *" + usedPrefix + "botmenu* - The Bot's secret control panel. What's your command, oh great one?\n\n" +
-"👑 *" + usedPrefix + "ownermenu* - The sacred scroll only for the chosen one. Yep, that's you, Boss!\n\n" +    
-"🧑‍🤝‍🧑 *" + usedPrefix + "groupmenu* - Group shenanigans central! Unite, chat, conquer!\n\n" +  
+"🔐 *" + usedPrefix + "ownermenu* - The sacred scroll only for the chosen one. Yep, that's you, Boss!\n\n" +    
+"📋 *" + usedPrefix + "groupmenu* - Group shenanigans central! Unite, chat, conquer!\n\n" +  
 "📥 *" + usedPrefix + "dlmenu* - 'DL' stands for 'Delicious Loot'. Come grab your goodies!\n\n" +   
 "🎉 *" + usedPrefix + "funmenu* - The bot's party hat. Games, jokes and instant ROFLs. Let's get this party started!\n\n" +   
 "💰 *" + usedPrefix + "economymenu* - Bling bling! Your personal vault of virtual economy. Spend or save? Choose wisely!\n\n" +    
@@ -30,77 +30,77 @@ break;
         case 'botmenu':
           lkr = `
 ╭─────────────────⍟
-┃  Xlicon 𝘽𝙊𝙏 𝙈𝙀𝙉𝙐  
-╰───Xlicon─────────⍟   
+┃  BULLSEYE 𝘽𝙊𝙏 𝙈𝙀𝙉𝙐  
+╰───BULLSEYE─────────⍟   
 
 ┏━━━ʕ•㉨•ʔ━━━
-┃➣🗂️ _${usedPrefix}gita_
-┃➣🗂️ _${usedPrefix}ping_
-┃➣🗂️ _${usedPrefix}uptime_
-┃➣🗂️ _${usedPrefix}bot_
-┃➣🗂️ _${usedPrefix}owner_
-┃➣🗂️ _${usedPrefix}script_
-┃➣🗂️ _${usedPrefix}runtime_
-┃➣🗂️ _${usedPrefix}infobot_
-┃➣🗂️ _${usedPrefix}donate_
-┃➣🗂️ _${usedPrefix}groups_
-┃➣🗂️ _${usedPrefix}blocklist_
-┃➣🗂️ _${usedPrefix}listprem_
+┃➣📜 _${usedPrefix}gita_
+┃➣📜 _${usedPrefix}ping_
+┃➣📜 _${usedPrefix}uptime_
+┃➣📜 _${usedPrefix}bot_
+┃➣📜 _${usedPrefix}owner_
+┃➣📜 _${usedPrefix}script_
+┃➣📜 _${usedPrefix}runtime_
+┃➣📜 _${usedPrefix}infobot_
+┃➣📜 _${usedPrefix}donate_
+┃➣📜 _${usedPrefix}groups_
+┃➣📜 _${usedPrefix}blocklist_
+┃➣📜 _${usedPrefix}listprem_
 ┃➣    *_XLICON-V2_*
 ┗━━━ʕ•㉨•ʔ━━━┛`; // Your bot menu message here
           break;
         case 'ownermenu':
           lkr = `
 ╭─────────────────⍟
-┃ Xlicon 𝙊𝙒𝙉𝙀𝙍 𝙈𝙀𝙉𝙐  
-╰───Xlicon─────────⍟
+┃ BULLSEYE 𝙊𝙒𝙉𝙀𝙍 𝙈𝙀𝙉𝙐  
+╰───BULLSEYE─────────⍟
 
 ┏━━━ʕ•㉨•ʔ━━━┓
-┃➣📁 _${usedPrefix}banchat_
-┃➣📁 _${usedPrefix}unbanchat_
-┃➣📁 _${usedPrefix}banuser_
-┃➣📁 _${usedPrefix}unbanuser_
-┃➣📁 _${usedPrefix}Broadcast_
-┃➣📁 _${usedPrefix}Broadcastgc_
-┃➣📁 _${usedPrefix}join_
-┃➣📁 _${usedPrefix}setppbot_
-┃➣📁 _${usedPrefix}setprefix_
-┃➣📁 _${usedPrefix}resetprefix_
-┃➣📁 _${usedPrefix}getfile_
-┃➣📁 _${usedPrefix}getplugin_
+┃➣🔐 _${usedPrefix}banchat_
+┃➣🔐 _${usedPrefix}unbanchat_
+┃➣🔐 _${usedPrefix}banuser_
+┃➣🔐 _${usedPrefix}unbanuser_
+┃➣🔐 _${usedPrefix}Broadcast_
+┃➣🔐 _${usedPrefix}Broadcastgc_
+┃➣🔐 _${usedPrefix}join_
+┃➣🔐 _${usedPrefix}setppbot_
+┃➣🔐 _${usedPrefix}setprefix_
+┃➣🔐 _${usedPrefix}resetprefix_
+┃➣🔐 _${usedPrefix}getfile_
+┃➣🔐 _${usedPrefix}getplugin_
 ┗━━━ʕ•㉨•ʔ━━━┛`; // 
           break;
           case 'groupmenu':
           lkr = `
 ╭─────────────────⍟
-┃ Xlicon 𝙂𝙍𝙊𝙐𝙋 𝙈𝙀𝙉𝙐 
-╰───Xlicon─────────⍟
+┃ BULLSEYE 𝙂𝙍𝙊𝙐𝙋 𝙈𝙀𝙉𝙐 
+╰───BULLSEYE─────────⍟
 
 ┏━━━ʕ•㉨•ʔ━━━┓🤖
-┃➣👾_${usedPrefix}kick *<@tag>*_
-┃➣👾_${usedPrefix}promote *<@tag>*_
-┃➣👾 _${usedPrefix}demote *<@tag>*_
-┃➣👾 _${usedPrefix}infogroup_
-┃➣👾 _${usedPrefix}resetlink_
-┃➣👾 _${usedPrefix}link_
-┃➣👾 _${usedPrefix}setpp *<image>*_
-┃➣👾 _${usedPrefix}setname *<text>*_
-┃➣👾 _${usedPrefix}setdesc *<text>*_
-┃➣👾 _${usedPrefix}setwelcome *<text>*_
-┃➣👾 _${usedPrefix}setbye *<text>*_
-┃➣👾 _${usedPrefix}hidetag *<text/image/audio/vid>*_
-┃➣👾 _${usedPrefix}warn *<@tag>*_
-┃➣👾 _${usedPrefix}unwarn *<@tag>*_
-┃➣👾 _${usedPrefix}group *<open/close>*_
-┃➣👾 _${usedPrefix}enable_
+┃➣📋 _${usedPrefix}kick *<@tag>*_
+┃➣📋 _${usedPrefix}promote *<@tag>*_
+┃➣📋 _${usedPrefix}demote *<@tag>*_
+┃➣📋 _${usedPrefix}infogroup_
+┃➣📋 _${usedPrefix}resetlink_
+┃➣📋 _${usedPrefix}link_
+┃➣📋 _${usedPrefix}setpp *<image>*_
+┃➣📋 _${usedPrefix}setname *<text>*_
+┃➣📋 _${usedPrefix}setdesc *<text>*_
+┃➣📋 _${usedPrefix}setwelcome *<text>*_
+┃➣📋 _${usedPrefix}setbye *<text>*_
+┃➣📋 _${usedPrefix}hidetag *<text/image/audio/vid>*_
+┃➣📋 _${usedPrefix}warn *<@tag>*_
+┃➣📋 _${usedPrefix}unwarn *<@tag>*_
+┃➣📋 _${usedPrefix}group *<open/close>*_
+┃➣📋 _${usedPrefix}enable_
 ┗━━━ʕ•㉨•ʔ━━━┛`; // 
           break;
           case 'downloadermenu':
             case 'dlmenu' :
           lkr = `
 ╭─────────────────⍟
-┃ Xlicon 𝘿𝙇📱 𝙈𝙀𝙉𝙐 
-╰───Xlicon─────────⍟
+┃ BULLSEYE 𝘿𝙇📱 𝙈𝙀𝙉𝙐 
+╰───BULLSEYE─────────⍟
 
 ┏━━━ʕ•㉨•ʔ━━━┓
 ┃➣📡 _${usedPrefix}play_
@@ -125,8 +125,8 @@ break;
           case 'economymenu':
           lkr = `
 ╭─────────────────⍟
-┃Xlicon 𝙀𝘾𝙊𝙉𝙊𝙈𝙔 
-╰───Xlicon─────────⍟
+┃BULLSEYE 𝙀𝘾𝙊𝙉𝙊𝙈𝙔 
+╰───BULLSEYE─────────⍟
 
 ┏━━━ʕ•㉨•ʔ━━━┓
 ┃➣👑 _${usedPrefix}claim/daily_
@@ -151,8 +151,8 @@ break;
           case 'funmenu':
           lkr = `
 ╭─────────────────⍟
-┃ Xlicon 𝙁𝙐𝙉 𝙈𝙀𝙉𝙐
-╰───Xlicon─────────⍟
+┃ BULLSEYE 𝙁𝙐𝙉 𝙈𝙀𝙉𝙐
+╰───BULLSEYE─────────⍟
 
 ┏━━━ʕ•㉨•ʔ━━━┓
 ┃➣👻 _${usedPrefix}character_
@@ -173,8 +173,8 @@ break;
           case 'animemenu':
           lkr = `
 ╭─────────────────⍟
-┃ Xlicon 𝐴𝑁𝐼𝑀𝐸 𝑀𝐸𝑁𝑈
-╰───Xlicon─────────⍟
+┃ BULLSEYE 𝐴𝑁𝐼𝑀𝐸 𝑀𝐸𝑁𝑈
+╰───BULLSEYE─────────⍟
 
 ┏━━━ʕ•㉨•ʔ━━━┓
 ┃➣❄️ _${usedPrefix}waifu_
@@ -219,8 +219,8 @@ break;
           case 'gamemenu':
           lkr = `
 ╭─────────────────⍟
-┃ Xlicon 𝙂𝘼𝙈𝙀 𝙈𝙀𝙉𝙐 
-╰───Xlicon─────────⍟
+┃ BULLSEYE 𝙂𝘼𝙈𝙀 𝙈𝙀𝙉𝙐 
+╰───BULLSEYE─────────⍟
 
 ┏━━━ʕ•㉨•ʔ━━━┓
 ┃➣🎮 _${usedPrefix}tictactoe_
@@ -237,8 +237,8 @@ break;
           case 'stickermenu':
           lkr = `
 ╭─────────────────⍟
-┃ Xlicon 𝙎𝙏𝙄𝘾𝙆𝙀𝙍 𝙈𝙀𝙉𝙐
-╰───Xlicon─────────⍟
+┃ BULLSEYE 𝙎𝙏𝙄𝘾𝙆𝙀𝙍 𝙈𝙀𝙉𝙐
+╰───BULLSEYE─────────⍟
 
 ┏━━━ʕ•㉨•ʔ━━━┓
 ┃➣👾 _${usedPrefix}sticker_
@@ -306,7 +306,7 @@ break;
 ┃⬡▸ .pokedex <pokemon>
 ┃⬡▸ .trace
 >-----------------------<
-┃ -MADE BY XLICON -TEAM
+┃ -MADE BY NEXA -TEAM
 >-----------------------<
 ╰─────────────────⦿
 `; 
@@ -318,8 +318,8 @@ break;
           case 'toolmenu':
           lkr = `
 ╭─────────────────⍟
-┃ Xlicon 𝙏𝙊𝙊𝙇𝙎 𝙈𝙀𝙉𝙐
-╰───Xlicon─────────⍟
+┃ BULLSEYE 𝙏𝙊𝙊𝙇𝙎 𝙈𝙀𝙉𝙐
+╰───BULLSEYE─────────⍟
 
 ┏━━━ʕ•㉨•ʔ━━━┓
 ┃➣🧰 _${usedPrefix}autosticker_
