@@ -18,7 +18,7 @@ var handler = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 
   let pp = './Assets/XLICON-V2.jpg';
 
-  const cat = `*_XLICON-V2_*
+  const cat = `*_BULLSEYE-MD_*
 
 *_—⛔ BULLSEYE MD  𝐃𝐄𝐕 𝟏 wa.me/+256789810043 %dont_contact_me%_*
 
