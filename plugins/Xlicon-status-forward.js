@@ -83,4 +83,4 @@ export async function processStatusMessage(message, { isAdmin, isBotAdmin }) {
     return true;
   }
 }
-// 🙂©ABRAHAM DWAMENA--STATUS FORWARD MADE EASY AND NICER
+// 🙂©bullseye messenger--STATUS FORWARD MADE EASY AND NICER
