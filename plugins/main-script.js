@@ -3,7 +3,7 @@ import { join } from 'path';
 import axios from 'axios'; 
 
 let handler = async function (m, { conn, __dirname }) {
-  const githubRepoURL = 'https://github.com/salmanytofficial/XLICON-V2-MD';
+  const githubRepoURL = 'https://github.com/henrygokugt99/NEXA-MD';
 
   try {
   
@@ -16,7 +16,7 @@ let handler = async function (m, { conn, __dirname }) {
 
       // Format the repository information with emojis
       const formattedInfo = `
-╭⭑⭑⭑★✪ *XLICON* ✪★⭑⭑⭑
+╭⭑⭑⭑★✪ *BULLSEYE* ✪★⭑⭑⭑
 │ 📂 *BOT Name:* _${repoData.name}_
 │ 📝 *Description:* _${repoData.description}_
 │ 👤 *Owner:* _Salman Ahmad_
