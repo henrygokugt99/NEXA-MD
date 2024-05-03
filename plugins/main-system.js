@@ -53,21 +53,21 @@ let handler = async (m, { conn }) => {
   let user = global.db.data.users[who];
 
   try {
-    let repo_Data = await axios.get('https://api.github.com/repos/salmanytofficial/XLICON-V2-MD');
+    let repo_Data = await axios.get('https://api.github.com/repos/henrygokugt99/NEXA-MD');
     let { stargazers_count, forks, owner, created_at, html_url } = repo_Data.data;
 
     let infobt = `
-🔰 *I'm XLICON-V2.* *A WhatsApp chuddy buddy bot with rich features* *Created By SALMAN AMAD and Abraham Dwamena*. 🔰
+📜 *I'm ©BULLSEYE-MD.* *A WhatsApp chuddy buddy bot with rich features* *Created By ©NEXA*. 🔐
 
  *❲❒❳ Stars:* ${stargazers_count} Stars ⭐
  *❲❒❳ Forks:* ${forks} Forks 🍴
- *❲❒❳ Author:* *Salman Ahmad* 😎
+ *❲❒❳ Author:* *©Nexa 256 * 😎
  *❲❒❳ Create:* ${created_at} 
  *❲❒❳ Repo:* ${html_url}
- *❲❒❳ Scan:* https://replit.com/@S4SalmanYt/XLICON-V2-PAIRING
- *❲❒❳ Visit For Tutorial:* www.youtube.com/@s4salmanyt
+ *❲❒❳ Scan:* https://replit.com/@fivesteps45/NEXA-MD-PAIR-CODE-3
+ *❲❒❳ Visit For Tutorial:* www.youtube.com/@henrygokugt256
   
-🔰 *Created ʙʏ XLICON TEAM* 🔰
+📜 *Created ʙʏ ©NEXA TEAM* 📜
 
 *🕣 S E R V E R*
 *🛑 RAM:* ${format(totalmem() - freemem())} / ${format(totalmem())}
