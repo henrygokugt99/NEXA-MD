@@ -41,9 +41,9 @@ let str = `
   ཌ|━━🤖 _BOT STATUS:_🤖━━|ད
   ⚀------- *IPHONE-MENU* ------⚀
 
-┌─𐂅  *MADE BY XLICON*  𐂅
-| ❁✓  *Creator:* XLICON-TEAM
-| 🤖  *Bot Name:* XLICON-V2
+┌─𐂅  *MADE BY BULLSEYE*  𐂅
+| ❁✓  *Creator:* NEXA-TEAM
+| 🤖  *Bot Name:* BULLSEYE-MD
 | 💻  *Host:* Linux 🟩
 | 📣  *Prefix:* ${usedPrefix} 
 | 🕓  *Uptime:* ${uptime}
@@ -59,7 +59,7 @@ let str = `
 ┌─𐂅「 *👤USER* 」
 | 👾  *User Tag:* ${taguser} 
 | 😇  *Name:* ${name} 
-| ✰  *Master Mind:* AB&SALMAN
+| ✰  *Master Mind:* NEXA
 | 💎  *Diamonds:* -9999
 | 🏆  *Rank:* ${role}
 | 🎮  *XP:* ${exp} 
@@ -549,7 +549,7 @@ let str = `
 ┌─➢『 *_conversion_* 』❖
 ┃❏*convert
 ╰─────────────────➢
-XLICON-𝙼𝙳-𝚅𝟸 𝙱𝚈 AB AND SALMAN`
+©BULLSEYE-𝙼𝙳- 𝙱𝚈 NEXA`
 
 
     conn.sendFile(m.chat, pp, 'perfil.jpg', str, m, null, rpyt)
@@ -638,6 +638,6 @@ function clockString(ms) {
       "🤣why are you using me 😅।",
       "😇।",
       "🤐।",
-      "🔰",
+      "📋",
       "rest😒 you are using me too much।"
 ];
