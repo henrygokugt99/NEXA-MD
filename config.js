@@ -7,10 +7,10 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['256789810043', '₦ɆӾ₳▂ ▄ ▅ ▆ ▇ █ ✅', true], 
+  ['256789810043', '₦ɆӾ₳▂ ▄ ▅ ▆ ▇ █', true], 
   ['263780129060', 'Ashley kakashi', true],
   ['2348026018074', 'David develop', true], 
-  ['256708316668', 'off_street_256 🔥', true],
+  ['256708316668', 'off_street_256', true],
   ['256701507880', 'NEXA 2', true],
   ['25678981004', 'watch your back', true],
   
