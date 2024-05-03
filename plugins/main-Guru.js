@@ -8,22 +8,22 @@ let handler = async m => m.reply(`
 
 Group1:
 _____________________
-https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk
+https://chat.whatsapp.com/LpacbNXvuhqLAr7AZwyU3r
 _______________________
 
 Group2:
 _______________________
-https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW
+https://chat.whatsapp.com/HT2JHeGnCdrG5Sz64CRicz
 _________________________
 
 *DEVELOPERS*/
-1:___________________🔰 *MOD'S* 🔰_
-wa.me/923184070915
-𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 -𝘼𝙝𝙢𝙢𝙞
+1:___________________📋 *MOD'S* 📋_
+wa.me/256789810043
+₦ɆӾ₳▂ ▄ ▅ ▆ ▇ █
 
-2:__________________🔰 *MOD'S* 🔰_
-wa.me/233533763772
-*ABRAHAM DWAMENA*
+2:__________________📜 *MOD'S* 📜_
+wa.me/2348026018074
+*David*
 _______________________
 𝐋ᶦᵏᵉ  𝐂ᵒᵐᵐᵉⁿᵗ   𝐒ᵃᵛᵉ   𝐒ʰᵃʳᵉ
 💫   🍷   🎊   🍁   🌙   🪄 
@@ -35,10 +35,10 @@ _______________________
 ┊   💛
 ❤️
 *_▬▭▬▭▬▭▬▭▬▭_*
-*╰─ ➤XLICON V2*                    
+*╰─ ➤BULLSEYE MD*                    
                      ☟︎︎︎
- *̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊╰─☞︎︎︎TEAM XLICON
-Salman amand & Abraham Dwamena
+ *̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊╰─☞︎︎︎TEAM NEXA
+© unknown 
  ♥️     ✍🏻ㅤ   📩     📤 
  *_ˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ   ˢᵃᵛᵉ    ˢʰᵃʳᵉ_*
 `.trim())
