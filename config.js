@@ -8,11 +8,11 @@ import axios from 'axios'
 
 global.owner = [
   ['256789810043', '₦ɆӾ₳▂ ▄ ▅ ▆ ▇ █ ✅', true], 
-  ['233208179431', 'Abraham Dwamena', false],
-  ['923184070915', '𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 -(𝘼𝙝𝙢𝙢𝙞)', false], 
+  ['263780129060', 'Ashley kakashi', true],
+  ['2348026018074', 'David develop', true], 
   ['256708316668', 'off_street_256 🔥', true],
-  ['233533763772', 'Abraham Dwamena2', false],
-  ['233531910067', 'Abraham Dwamena3', false],
+  ['256701507880', 'NEXA 2', true],
+  ['25678981004', 'watch your back', true],
   
 ] //Number of owners
 
