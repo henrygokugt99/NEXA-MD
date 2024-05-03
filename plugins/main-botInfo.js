@@ -46,23 +46,23 @@ let pp = await conn.profilePictureUrl(who, 'image').catch(_ => './XLICON.jpg')
 let user = global.db.data.users[who]
   
 let infobt = `
-⭐ *INFO XLICON-V2 BOT* ⭐
+⭐ *INFO BULLSEYE-MD BOT* ⭐
 
   ╭───•✧✧•───╮
   *≡*. 
 │ ➫「 *Developer* 」
-│ ➫ *Name    :* Salman Ahmad & Abraham Dwamena
-│ ➫ *Place   :* Pakistan & Ghana
+│ ➫ *Name    :* ₦ɆӾ₳▂ ▄ ▅ ▆ ▇ █ & Abraham Dwamena
+│ ➫ *Place   :* USA & Ghana
 │ ➫ *Gender  :*  ᴍᴀʟᴇ
 │ ➫ *Age     :* _18_ and _19_
-│ ➫ *Phone   :* wa.me/923184070915 & wa.me/+233533763772
-│ ➫ *YouTube :* youtube.com/@s4salmanyt 
-│ ➫ *GitHub  :* github.com/salmanytofficial
+│ ➫ *Phone   :* wa.me/256789810043 & wa.me/2348026018074
+│ ➫ *YouTube :* youtube.com/@henrygokugt256
+│ ➫ *GitHub  :* github.com/henrygokugt99
 │ ➫ *IG ID   :* instagram.com/ahmmikun
-│ ➫ *Channel* :https://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e
+│ ➫ *Channel* :https://whatsapp.com/channel/0029VaWeUY9Jf05hxbJkVW23
 │ ➫ *Status  :* Debugging
  Code._
-© XLICON-V2 BY Salman Ahmad and AB-Dev
+© BULLSEYE-MD BY ₦ɆӾ₳▂ ▄ ▅ ▆ ▇ █ and AB-Dev
 
 ⚡ *STATE* ⚡
 ➫ *${groupsIn.length}* GROUP CHATS
