@@ -576,10 +576,10 @@ export async function participantsUpdate({
                         contextInfo: {
                         mentionedJid: [user],
                         externalAdReply: {
-                        title: "XLICON-V2",
+                        title: "BULLSEYE-MD",
                         body: "welcome to our Group",
                         thumbnailUrl: welcomeApiUrl,
-                        sourceUrl: 'https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk',
+                        sourceUrl: 'https://chat.whatsapp.com/LpacbNXvuhqLAr7AZwyU3r',
                         mediaType: 1,
                         renderLargerThumbnail: true
                         }}})
