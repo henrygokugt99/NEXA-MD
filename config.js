@@ -6,13 +6,10 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 
 
-global.owner = [
-  ['256789810043', 'NEXA AI', true], 
+global.owner = [ 
   ['+263780129060', 'Ashley kakashi', true],
   ['2348026018074', 'David develop', true], 
-  ['256708316668', 'off_streets', true],
   ['256701507880', 'NEXA 2', true],
-  ['918360234087', 'white 4', true],
   
 ] //Number of owners
 
