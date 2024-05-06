@@ -576,7 +576,7 @@ export async function participantsUpdate({
                         contextInfo: {
                         mentionedJid: [user],
                         externalAdReply: {
-                        title: "BULLSEYE-MD",
+                        title: "XLICON-V2",
                         body: "welcome to our Group",
                         thumbnailUrl: welcomeApiUrl,
                         sourceUrl: 'https://chat.whatsapp.com/LpacbNXvuhqLAr7AZwyU3r',
@@ -629,7 +629,7 @@ export async function participantsUpdate({
                         contextInfo: {
                         mentionedJid: [user],
                         externalAdReply: {
-                        title: "©BULLSEYE-MD BOT",
+                        title: "XLICON-V2 BOT",
                         body: "Goodbye from our Group",
                         thumbnailUrl: leaveApiUrl,
                         sourceUrl: 'https://chat.whatsapp.com/LpacbNXvuhqLAr7AZwyU3r',
