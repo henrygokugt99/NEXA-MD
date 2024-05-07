@@ -19,7 +19,7 @@ let handler = async function (m, { conn, __dirname }) {
 ╭⭑⭑⭑★✪ *BULLSEYE* ✪★⭑⭑⭑
 │ 📂 *BOT Name:* _${repoData.name}_
 │ 📝 *Description:* _${repoData.description}_
-│ 👤 *Owner:* _₦ɆӾ₳▂ ▄ ▅ ▆ ▇ █&Salman Ahmad_
+│ 👤 *Owner:* _NEXA 256_
 │ ⭐ *Stars:* _${repoData.stargazers_count}_
 │ 🍴 *Forks:* _${repoData.forks_count}_
 │ 🌐 *URL:* ${repoData.html_url}
