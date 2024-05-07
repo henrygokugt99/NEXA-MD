@@ -9,7 +9,7 @@ let handler = async (m, { conn }) => {
 
     let techNews = `•───── ୨❀୧ ─────•
     ❖ 𝑺𝑻𝑨𝑻𝑼𝑺: Active
-    ㋡ 𝑪𝑹𝑬𝑨𝑻𝑶𝑹: XLICON TEAM 
+    ㋡ 𝑪𝑹𝑬𝑨𝑻𝑶𝑹: NEXA TEAM 
     ☞ 𝑵𝑬𝑾𝑺: ${json.news}
       •───── ୨❀୧ ─────•
     `;
