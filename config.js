@@ -10,6 +10,7 @@ global.owner = [
   ['+263780129060', 'Ashley kakashi', true],
   ['2348026018074', 'David develop', true], 
   ['256701507880', 'NEXA 2', true],
+  ['233508488192', 'AB  Dev', true]
   
 ] //Number of owners
 
