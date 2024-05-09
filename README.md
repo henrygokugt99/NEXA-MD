@@ -158,7 +158,7 @@ Thanks to all contributors! 🚀
 NOW Deploy👇
 <br>
 ## DEPLOY IN KOYEB    
-[![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/henrygokugt99/NEXA-MD&branch=main&name=gurubhay&builder=dockerfile&env[DATABASE_URL]=&env[SESSION_ID]=your+sessionid+here&env[PREFIX]=!&env[MODE]=public&env=[autoRead]=false&env[statusview]=false&env[REMOVEBG_KEY]=your+rmbg+key&env[antidelete]=false)  
+[![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/new/configure-service?service_type=web&type=git&repository=github.com%2Fhenrygokugt99%2FNEXA-MD)  
 
 ## `CREDITS` 
 <div><button id="boton" type="button">Baileys - By WhiskeySockets & adiwajshing</button></div>
@@ -176,7 +176,7 @@ NOW Deploy👇
 ## `Main Dev` 
 <a href="https://github.com/abrahamdw882"><img src="https://i.imgur.com/100UXHy.jpg" width="250" height="250" alt="Abraham Dwamena"/></a>
   
-**XLICON-V2** - By `abrahamdw882`
+**BULLSEYE-MD** - By `abrahamdw882`
 <br>
 `Development , Features Enhancement , Plugin Debbuging`
 
