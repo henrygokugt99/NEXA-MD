@@ -158,7 +158,7 @@ Thanks to all contributors! 🚀
 NOW Deploy👇
 <br>
 ## DEPLOY IN KOYEB    
-[![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/new/configure-service?service_type=web&type=git&repository=github.com%2Fhenrygokugt99%2FNEXA-MD)  
+[![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/henrygokugt99/NEXA-MD&branch=main&name=nexa-md&builder=dockerfile&env%5BDATABASE_URL%5D=&env%5BSESSION_ID%5D=your+sessionid+here&env%5BPREFIX%5D=!&env%5BMODE%5D=public&env=%5BautoRead%5D=false&env%5Bstatusview%5D=false&env%5BREMOVEBG_KEY%5D=your+rmbg+key&env%5Bantidelete%5D=false)  
 
 ## `CREDITS` 
 <div><button id="boton" type="button">Baileys - By WhiskeySockets & adiwajshing</button></div>
