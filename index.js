@@ -23,7 +23,7 @@ say("XLICON - V2", {
   'maxLength': '15'
 });
 
-say("Xlicon-BOT-V2 By Salman._.", {
+say("BULLSEYE-BOT-MD By nexa._.", {
   'font': "chrome",
   'align': "center",
   'colors': ["red", "magenta"],
