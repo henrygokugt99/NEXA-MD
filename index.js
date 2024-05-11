@@ -23,7 +23,7 @@ say("XLICON - V2", {
   'maxLength': '15'
 });
 
-say("BULLSEYE-BOT-MD By ©NEXA._.", {
+say("Xlicon-BOT-V2 By Salman._.", {
   'font': "chrome",
   'align': "center",
   'colors': ["red", "magenta"],
@@ -40,7 +40,7 @@ const basePath = new URL(import.meta.url).pathname;
 const htmlDir = path.join(path.dirname(basePath), 'Assets');
 
 const sendHtml = (res, req, page) => {
-  req.sendFile(path.join(htmlDir, page + ".html"));
+  res.sendFile(path.join(htmlDir, page + ".html"));
 };
 
 app.get('/', (req, res) => sendHtml(res, req, "guru"));
@@ -84,7 +84,7 @@ async function start(scriptName) {
     }
     fs.watchFile(scriptArgs[0x0], () => {
       fs.unwatchFile(scriptArgs[0x0]);
-      start("Guru.js");
+      start("XLICON.js");
     });
   });
 
@@ -92,7 +92,7 @@ async function start(scriptName) {
     console.error(chalk.red("Error: " + err));
     childProcess.kill();
     isRunning = false;
-    start('Guru.js');
+    start('XLICON.js');
   });
 
   const pluginsDir = path.join(path.dirname(currentScriptPath), "plugins");
@@ -113,15 +113,15 @@ async function start(scriptName) {
   });
 }
 
-start('Guru.js');
+start('XLICON.js');
 
 process.on("unhandledRejection", () => {
   console.error(chalk.red("Unhandled promise rejection. Bot will restart..."));
-  start("Guru.js");
+  start("XLICON.js");
 });
 
 process.on("exit", exitCode => {
   console.error(chalk.red("Exited with code: " + exitCode));
   console.error(chalk.red("Bot will restart..."));
-  start("Guru.js");
+  start("XLICON.js");
 });
