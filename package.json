@@ -1,5 +1,5 @@
 {
-    "name": "gurubot",
+    "name": "NEXA-MD",
     "version": "2.0.0",
     "description": "Advanced WhatsApp Bot",
     "main": "index.js",
@@ -25,16 +25,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/Guru322/GURU-BOT",
+    "homepage": "https://github.com/henrygokugt99/NEXA-MD",
     "author": {
-        "name": "GURU"
+        "name": "Guru"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Guru322/GURU-BOT.git"
+        "url": "git+https://github.com/henrygokugt99/NEXA-MD.git"
     },
     "bugs": {
-        "url": "https://github.com/Guru322/GURU-BOT/issues"
+        "url": "https://github.com/henrygokugt99/NEXA-MD/issues"
     },
     "license": "Apache License 2.0",
     "dependencies": {
