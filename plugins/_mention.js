@@ -10,7 +10,7 @@ let handler = m => m
 handler.all = async function (m, conn) {
     var vn = "./Assets/ALIVE.mp3"
     let url = "https://github.com/henrygokugt99"
-    let murl = "https://www.instagram.com/ahmmikun/"
+    let murl = "https://www.instagram.com/broad_cast1.7/"
     let hash = global.botname
     let img = "https://i.imgur.com/mnShsvl.jpeg"
     let num = ["923184070915","923184474176","233533763772","94789481495"]
