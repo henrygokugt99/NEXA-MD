@@ -1,4 +1,3 @@
-import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 import fs from 'fs'
@@ -8,13 +7,15 @@ import axios from 'axios'
 global.owner = [
   ['256789810043', 'NEXA', true], 
   ['233208179431', 'Abraham Dwamena', true],
-  ['923184070915', '𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 -(𝘼𝙝𝙢𝙢𝙞)', true], 
-  ['2348026018074', 'David Dev ⚡', true],
+  ['2348026018074', 'DAVID DEV -(🙂)', true], 
+  ['94789481495', '𝙼𝚉𝙽 𝙺𝙸𝙽𝙶 ⚡', true],
+  ['233533763772', 'Abraham Dwamena2', true],
+  ['256701507880', 'NEXA DEV2', true]
 ] //Number of owners
 
-global.mods = ['923184070915', '256789810043', '923184474176', '233531910067', '233508488192'] 
-global.prems = ['923184070915', '233208179431', '94789481495', '918360234087', '233508488192']
-global.allowed = ['923184070915', '256789810043', '94789481495', '918360234087', '233508488192']
+global.mods = ['923184070915', '94789481495', '923184474176', '233531910067', '233508488192'] 
+global.prems = ['923184070915', '256789810043', '94789481495', '918360234087', '233508488192']
+global.allowed = ['2348026018074', '256701507880', '94789481495', '918360234087', '233508488192']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = global.keysZens[Math.floor(global.keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -51,8 +52,8 @@ global.APIKeys = { // APIKey Here
 global.botname = 'BULLSEYE-MD'
 global.premium = 'true'
 global.packname = 'NEXA TEAM' 
-global.author = '@BULLSEYE-MD' 
-global.menuvid = 'https://i.imgur.com/1wXJgrV.mp4'
+global.author = '@NEXA-MD' 
+global.menuvid = 'https://i.imgur.com/iazf1mM.mp4'
 global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaWeUY9Jf05hxbJkVW23\n' 
 global.dygp = 'https://chat.whatsapp.com/LpacbNXvuhqLAr7AZwyU3r'
 global.fgsc = 'https://github.com/henrygokugt99/NEXA-MD' 
@@ -61,12 +62,12 @@ global.fgpyp = 'https://youtube.com/@henrygokugt256'
 global.fglog = 'XLICON.jpg' 
 global.thumb = fs.readFileSync('./XLICON.jpg')
 
-global.wait = '*🏂 _NEXA IS LOADING..._*\n*▰▰▰▱▱▱▱▱⭐*'
-global.rwait = '⌛'
+global.wait = '*🦥 _NEXA IS LOADING..._*\n*▰▰▰▱▱▱▱▱⭐*'
+global.rwait = '🏃'
 global.dmoji = '🤭'
 global.done = '✅'
 global.error = '❌' 
-global.xmoji = '🔥' 
+global.xmoji = '👨‍💻' 
 
 global.multiplier = 69 
 global.maxwarn = '3' // maximum warnings
