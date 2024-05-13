@@ -13,7 +13,7 @@ handler.all = async function (m, conn) {
     let murl = "https://www.instagram.com/broad_cast1.7/"
     let hash = global.botname
     let img = "https://i.imgur.com/mnShsvl.jpeg"
-    let num = ["256789810043","923184474176","233533763772","94789481495"]
+    let num = ["256789810043","256701507880","233533763772","94789481495"]
 
     let doc = {
         audio: {
