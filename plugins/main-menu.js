@@ -21,11 +21,11 @@ import {
 *REMEMBER THIS BOT IS FOR*
 *EDUCATIONAL PERPOSES*
 ⍟────────────────⍟
-*©NEXA 256*
+*©NEXA__y_o_u_*
 ⍟────────────────⍟
 *_Konnichiwa! Its BULLSEYE-MD A_* 
 *_Multi-Device Whatsapp BOT_*
-*_Recoded By NEXA 256_*
+*_Recoded By NEXA____*
 ⍟────────────────⍟
                                     
  pls read carefully wise men                                   
