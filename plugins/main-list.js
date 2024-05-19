@@ -18,7 +18,7 @@ lkr = "*Get excited, here are your options:*\n\n" +
 "💰 *" + usedPrefix + "economymenu* - Bling bling! Your personal vault of virtual economy. Spend or save? Choose wisely!\n\n" +    
 "🎮 *" + usedPrefix + "gamemenu* - Enter the gaming arena. May the odds be ever in your favor!\n\n" +     
 "🎨 *" + usedPrefix + "stickermenu* - A rainbow of stickers for your inner artist. Make your chats pop!\n\n" +    
-"🧰 *" + usedPrefix + "toolmenu* - Your handy-dandy toolkit. What's your pick, genius?\n\n" +    
+"🛠️ *" + usedPrefix + "toolmenu* - Your handy-dandy toolkit. What's your pick, genius?\n\n" +    
 "🎩 *" + usedPrefix + "logomenu* - Create a logo that screams YOU. Or whispers. You choose the volume.\n\n" +    
 "🌙 *" + usedPrefix + "nsfwmenu* - The After Dark menu. But remember, sharing adult secrets must be consent-based.";
 break;
@@ -321,38 +321,39 @@ break;
 ┃ BULLSEYE 𝙏𝙊𝙊𝙇𝙎 𝙈𝙀𝙉𝙐
 ╰───BULLSEYE─────────⍟
 
-┏━━━ʕ•㉨•ʔ━━━┓
-┃➣🧰 _${usedPrefix}autosticker_
-┃➣🧰 _${usedPrefix}pdf_
-┃➣🧰 _${usedPrefix}whatmusic_
-┃➣🧰 _${usedPrefix}calc_
-┃➣🧰 _${usedPrefix}google_
-┃➣🧰 _${usedPrefix}lyrics_
-┃➣🧰 _${usedPrefix}readmore_
-┃➣🧰 _${usedPrefix}ssweb_
-┃➣🧰 _${usedPrefix}tts_
-┃➣🧰 _${usedPrefix}translate_
-┃➣🧰 _${usedPrefix}tourl_
-┃➣🧰 _${usedPrefix}wikipedia_
-┃➣🧰 _${usedPrefix}nowa_
-┃➣🧰 _${usedPrefix}qrmaker_
-┃➣🧰 _${usedPrefix}readqr_
-┃➣🧰 _${usedPrefix}fancy_
-┃➣🧰 _${usedPrefix}weather_
-┃➣🧰 _${usedPrefix}siri_
-┃➣🧰 _${usedPrefix}alexa_
-┃➣🧰 _${usedPrefix}dalle_
-┃➣🧰 _${usedPrefix}tocartoon_
-┃➣🧰 _${usedPrefix}quote_
-┃➣🧰 _${usedPrefix}technews_
-┃➣🧰 _${usedPrefix}define_
-┃➣🧰 _${usedPrefix}pokedex_
-┃➣🧰 _${usedPrefix}removebg_
-┃➣🧰 _${usedPrefix}apk_
-┃➣🧰 _${usedPrefix}tinyurl/shorturl_
-┃➣🧰 _${usedPrefix}readvo_
-┃➣🧰 _${usedPrefix}true_
-┗━━━ʕ•㉨•ʔ━━━┛`; // 
+|━━━━━━━(¯`♥´¯)..♥━━═════╗
+|
+: ̗̀➛🛠️ _${usedPrefix}autosticker_
+: ̗̀➛🛠️ _${usedPrefix}pdf_
+: ̗̀➛🛠️ _${usedPrefix}whatmusic_
+: ̗̀➛🛠️ _${usedPrefix}calc_
+: ̗̀➛🛠️ _${usedPrefix}google_
+: ̗̀➛🛠️ _${usedPrefix}lyrics_
+: ̗̀➛🛠️ _${usedPrefix}readmore_
+: ̗̀➛🛠️ _${usedPrefix}ssweb_
+: ̗̀➛🛠️ _${usedPrefix}tts_
+: ̗̀➛🛠️ _${usedPrefix}translate_
+: ̗̀➛🛠️ _${usedPrefix}wikipedia_
+: ̗̀➛🛠️ _${usedPrefix}nowa_
+: ̗̀➛🛠️ _${usedPrefix}qrmaker_
+: ̗̀➛🛠️ _${usedPrefix}readqr_
+: ̗̀➛🛠️ _${usedPrefix}fancy_
+: ̗̀➛🛠️ _${usedPrefix}weather_
+: ̗̀➛🛠️ _${usedPrefix}siri_
+: ̗̀➛🛠️ _${usedPrefix}alexa_
+: ̗̀➛🛠️ _${usedPrefix}dalle_
+: ̗̀➛🛠️ _${usedPrefix}tocartoon_
+: ̗̀➛🛠️ _${usedPrefix}quote_
+: ̗̀➛🛠️ _${usedPrefix}technews_
+: ̗̀➛🛠️ _${usedPrefix}define_
+: ̗̀➛🛠️ _${usedPrefix}pokedex_
+: ̗̀➛🛠️ _${usedPrefix}removebg_
+: ̗̀➛🛠️ _${usedPrefix}apk_
+: ̗̀➛🛠️ _${usedPrefix}tinyurl/shorturl_
+: ̗̀➛🛠️ _${usedPrefix}readvo_
+: ̗̀➛🛠️ _${usedPrefix}true_
+╚═════NEXA TEAM 
+╚═════﹌﹌﹌﹌﹌﹌﹌﹌﹌`; // 
           break;
           case 'nsfwmenu':
           lkr = `use command ${usedPrefix}nsfw`; // 
