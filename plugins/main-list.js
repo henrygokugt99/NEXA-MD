@@ -322,7 +322,6 @@ break;
 ╰───BULLSEYE─────────⍟
 
 |━━━━━━━(¯`♥´¯)..♥━━═════╗
-|
 : ̗̀➛🛠️ _${usedPrefix}autosticker_
 : ̗̀➛🛠️ _${usedPrefix}pdf_
 : ̗̀➛🛠️ _${usedPrefix}whatmusic_
@@ -352,8 +351,7 @@ break;
 : ̗̀➛🛠️ _${usedPrefix}tinyurl/shorturl_
 : ̗̀➛🛠️ _${usedPrefix}readvo_
 : ̗̀➛🛠️ _${usedPrefix}true_
-╚═════NEXA TEAM 
-╚═════﹌﹌﹌﹌﹌﹌﹌﹌﹌`; // 
+ ┗━━━ʕ•㉨•ʔ━━━┛`; // 
           break;
           case 'nsfwmenu':
           lkr = `use command ${usedPrefix}nsfw`; // 
