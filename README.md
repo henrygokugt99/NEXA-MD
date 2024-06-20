@@ -1,7 +1,7 @@
 <h1>🛑 NOTE 🛑</h1>
 <p>this repo is not available now it will be available soon after fixing some errors </p>
 <p>for the Time being please use </p>
-<p>https://github.com/henrygokugt99/DAIMA-MD</p>
+<a>https://github.com/henrygokugt99/DAIMA-MD>go to DAIMA </a>
 <p>use that instead join the group for updates</p>
 
 Join our WhatsApp support group for assistance and discussions!
